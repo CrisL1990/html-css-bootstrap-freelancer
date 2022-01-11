@@ -3,22 +3,22 @@ header.debug{
     background-color: rgb(43, 62, 80);
 }
 
-main .debug.jumbotron{
+.debug.jumbotron{
     height: 500px;
     background-color: rgb(24, 188, 155);
 }
 
-main .debug.portfolio{
+.portfolio{
     height: 150px;
     border: solid black 1px;
 }
 
-.imm{
+.img{
     height: 300px;
 }
 
 .img-1{
-    background-color: rgb(185, 75, 99);
+    background-color: rgb(186, 75, 99);
 }
 
 .img-2{
@@ -41,13 +41,20 @@ main .debug.portfolio{
     background-color: rgb(204, 178, 163);
 }
 
-.about.debug{
-    height: 600px;
-    background-color: rgb(24, 188, 155);
-
+.mrg-top-20{
+    margin-top: 20px;
 }
 
-.contact.debug{
+.mrg-btm-40{
+    margin-bottom: 40px;
+}
+
+.row.about{
+    height: 600px;
+    background-color: rgb(24, 188, 155)
+}
+
+.row.contact{
     height: 600px;
     border: solid black 1px;
 }
