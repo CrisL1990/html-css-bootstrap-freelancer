@@ -13,34 +13,6 @@ header.debug{
     border: solid black 1px;
 }
 
-.img{
-    height: 300px;
-}
-
-.img-1{
-    background-color: rgb(186, 75, 99);
-}
-
-.img-2{
-    background-color: rgb(31, 164, 182);
-}
-
-.img-3{
-    background-color: rgb(20, 15, 15);
-}
-
-.img-4{
-    background-color: rgb(28, 131, 193);
-}
-
-.img-5{
-    background-color: rgb(14, 56, 181);
-}
-
-.img-6{
-    background-color: rgb(204, 178, 163);
-}
-
 .mrg-top-20{
     margin-top: 20px;
 }
