@@ -26,22 +26,29 @@
     background-color: rgb(24, 188, 155);
 }
 
-.row.contact{
-    height: 600px;
-    border: solid black 1px;
-}
-
-.footer-top.debug{
-    height: 500px;
+.footer-top{
     background-color: rgb(58, 84, 109);
 }
 
-.footer-bottom.debug{
-    height: 100px;
+.footer-bottom{
     background-color: rgb(43, 62, 80);
 }
 
-.location, .web, .about-freelancer{
-    height: 150px;
-    border: solid black 1px;
+.copyright{
+    font-size: 12px;
+}
+
+.ms_icon{
+    width: 70%;
+    margin: auto;
+}
+
+.ms_social{
+    height: 50px;
+    width: 50px;
+    border: solid white 1px;
+}
+
+.fa-facebook-f, .fa-google-plus-g, .bi-twitter, .fa-linkedin-in{
+    line-height: 50px;
 }
